@@ -2,10 +2,11 @@
 Smart Home Automation display and control for Vanlifers, RVers, tiny homers, and general off-gridders.
 
 STAGE 1:
-- STATUS: Power system (BMS, Inverter, Shunt), Temperature/Humidity
+- STATUS: Power system (JBD BMS, Inverter), Temperature/Humidity
 - CONTROL: Zone lighting, Diesel heater, Fan
 - INTERACTION: Touchscreen (Fully Kiosk on Fire Tablet), LAN Webpage, Voice (Rhasspy)
 - MEDIA: Basic SAMBA NAS
+- 
 
 STAGE X:
 **Central Hub for off-grid / tiny homes / van dwellings** 
@@ -28,9 +29,11 @@ Abilities:
                 - https://github.com/victronenergy/venus/wiki
                 - https://community.victronenergy.com/questions/16842/raspberry-pi-the-very-basic-please.html
                 - Ve.direct https://www.sv-zanshin.com/r/manuals/victron-ve-direct-protocol.pdf
-                - 
+            - MPP Solar
+                - https://github.com/ned-kelly/docker-voltronic-homeassistant
         - Battery
             - SOC, voltage, net current, load 
+            - JBD BMS: https://diysolarforum.com/threads/jbd-bms-wi-fi-module.17252/page-10
         - Data logging/analysis/warning
     - Control
         - Lights
