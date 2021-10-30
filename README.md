@@ -1,6 +1,13 @@
 # bettyproject
-Smart Home Automation display and control for mobile dwellers and #vanlife
+Smart Home Automation display and control for Vanlifers, RVers, tiny homers, and general off-gridders.
 
+STAGE 1:
+- STATUS: Power system (BMS, Inverter, Shunt), Temperature/Humidity
+- CONTROL: Zone lighting, Diesel heater, Fan
+- INTERACTION: Touchscreen (Fully Kiosk on Fire Tablet), LAN Webpage, Voice (Rhasspy)
+- MEDIA: Basic SAMBA NAS
+
+STAGE X:
 **Central Hub for off-grid / tiny homes / van dwellings** 
 - Shows STATUS of home and logs data for analysis and preemptive warnings. (ie. (You’re getting low on water”) Solar/battery/water/fuel. Also uses sensors for awareness of environment and calculate efficiency. (Inside/outside temp, humidity)
 - CONTROLS zone lighting/heating/cooling/battery management 
